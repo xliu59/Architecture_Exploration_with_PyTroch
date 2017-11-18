@@ -1,1 +1,1 @@
-# architecture_exploration_with_PyTroch
+# Architecture_Exploration_with_PyTroch
