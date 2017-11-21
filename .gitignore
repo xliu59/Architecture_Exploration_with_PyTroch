@@ -1,5 +1,7 @@
 .DS_Store
-./output/
-./data/
+.idea
+.ipynb_*
+output/
+data/
 introduction*
 neural-network-for-apple*
